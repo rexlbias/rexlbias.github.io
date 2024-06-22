@@ -1,7 +1,12 @@
-echo "# rexlbias.github.io" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:rexlbias/rexlbias.github.io.git
-git push -u origin main
+# Cybersecurity Analyst
+
+### Education
+A.A. in Organizational Management, Mesa Community College
+
+### Work Experience
+Job
+-bullet point
+-bullet point
+
+### Projects
+Project title
