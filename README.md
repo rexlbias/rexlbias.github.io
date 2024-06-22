@@ -2,7 +2,7 @@
 
 ## Professional Summary
 
-Leveraging a robust foundation in cybersecurity from the University of Nevada-Las Vegas; obtained CompTIA Security+, SC-900, Linux Security Essentials, and CCNA certifications. Hands-on experience and training in cyber defense, network security, and incident management equip for significant contributions to any future role. Previous experience in organizational management and team leadership complements my technical skills, making me a well-rounded candidate for safeguarding digital assets and infrastructure opportunities.
+With a solid cybersecurity education from the University of Nevada-Las Vegas and a suite of industry-recognized certifications, including CompTIA Security+, SC-900, and CCNA, I am well-prepared to tackle complex security challenges. My hands-on experience in cyber defense, network security, and incident management positions me as a valuable asset for any organization. My background in organizational management and team leadership further enhances my technical expertise, making me an ideal candidate for roles focused on protecting digital assets and infrastructure. Currently, I am expanding my skill set with certifications like Data+, Linux Web Essentials, and Server +. My proficiency spans various operating systems and networking technologies, ensuring adaptability in diverse environments. Additionally, my programming skills in languages such as Python and SQL, coupled with my familiarity with tools like Wireshark and Nessus, equip me to contribute effectively to cybersecurity initiatives.
 
 ### Education
 
