@@ -14,10 +14,12 @@ Mesa Community	Mesa, AZ
 Associate of Arts in Organizational Management	Honors December 2022
 Courses: Business, Human Relations in Business, Management, Project Management, TQM, Organizational Leadership, Communications, Accounting, and Ethics
 
-### Certifications and Skills Profile
+### Certifications
 
-- **Certifications:** |**CompTIA:** CSIS, CIOS, Security+, Network+, A+, Cloud Essentials+ | **Cisco:** CCNA, CCST Cyber, CCST Networking | **Linux:** Linux Essentials, Linux Security Essentials | **Microsoft:** AZ-900, SC-900 | **ICS2:** C.C.
--  Currently pursuing Data+, Linux Web Essentials, Server +. 
+|**CompTIA:** CSIS, CIOS, Security+, Network+, A+, Cloud Essentials+ | **Cisco:** CCNA, CCST Cyber, CCST Networking | **Linux:** Linux Essentials, Linux Security Essentials | **Microsoft:** AZ-900, SC-900 | **ICS2:** C.C.
+-  Currently pursuing Data+, Linux Web Essentials, Server +.
+
+### Skills Profile
 - **Operating Systems:** Microsoft Windows (7, 8, 10, 11), Microsoft Windows Server (2012, 2016, 2023), Linux (Kali, Ubuntu, Arche, BlackArch), MacOS, Cisco IOS, AWS, Azure
 - **Networking:** VLANs, ACLs, ZPF, RIP, static routing, subnetting, VTP, 802.1q, inter-VLAN routing, VPN, DHCP, DNS, Radius, TACAS+, network security, Linux networking, cloud networking, wireless networking, network monitoring tools, network automation, network security protocols, Cisco network protocols, NIDS/HIDS, NIPS/HIPS 
 - **Programming Languages:**  Python, SQL, Bash, Bash Scripting, PowerShell, HTML, CSS, JSON, XML, Yaml
