@@ -16,10 +16,14 @@ Courses: Business, Human Relations in Business, Management, Project Management, 
 
 ### Certifications
 
-**CompTIA:** CSIS, CIOS, Security+, Network+, A+, Cloud Essentials+  
+**CompTIA:** CSIS, CIOS, Security+, Network+, A+, Cloud Essentials+ 
+
 **Cisco:** CCNA, CCST Cyber, CCST Networking 
+
 **Linux:** Linux Essentials, Linux Security Essentials 
+
 **Microsoft:** AZ-900, SC-900 
+
 **ICS2:** C.C.
 
 Currently pursuing Data+, Linux Web Essentials, Server +.
