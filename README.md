@@ -35,8 +35,28 @@ Currently pursuing Data+, Linux Web Essentials, Server +.
 - **Programming Languages:**  Python, SQL, Bash, Bash Scripting, PowerShell, HTML, CSS, JSON, XML, Yaml
 - **Tools:**  Wireshark, Nessus, Nmap/Zenmap, NetFlow, Splunk, ELK stack, Sysinternals, PFSense, Zeek, Snort, Sguil, Wazuh, Cisco Packet Tracer, TryHackMe.com, Active Directory, MySQL, Excel, Tableau, Metasploit
 
-### Projects
+###  Cybersecurity Analyst Projects
+Project title 
+---- Designing a secure network architecture
+---- Developing a password-cracking tool
+---- Conducting penetration testing on a web application
+---- Develop a WAF
+---- Automated Vulnerability Scanner
+---- Designing secure coding practices guidelines
+---- Creating an incident response plan for handling cyber attacks
+
+### Data Analyst Projects
+Project title 
+---- web scraping
+---- data cleaning
+---- Data visualization
+---- Implementing data loss prevention measures in an organization’s network
+
+### Web Developer Projects
 Project title
+---- Security Audit Tool
+---- Linux-Based web Hosting Platform
+
 
 ### Professional Experience
 
