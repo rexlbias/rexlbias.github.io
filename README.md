@@ -30,7 +30,7 @@ Courses: Business, Human Relations in Business, Management, Project Management, 
 
 **ICS2:** C.C.
 
-Currently pursuing Data+, Linux Web Essentials, Server +.
+I am pursuing Data+, Linux Web Essentials, and Server +.
 
 ### Skills Profile
 
@@ -59,7 +59,7 @@ Project title
 ### Web Developer Projects
 Project title
 ---- Security Audit Tool
----- Linux-Based web Hosting Platform
+---- Linux-based web Hosting Platform
 
 
 ### Professional Experience
@@ -68,7 +68,7 @@ Educational Development (UNLV, MCC) (Mesa, AZ)	December 2020–August 2024
 College Student/Self-Study
 - Earned Security+ Certification: Demonstrated expertise in network security and risk management, leading to the implementation of robust security protocols and effective response to cyber threats.
 - Achieved Linux Security Essentials Certification: Established a strong foundation in Linux system security, managing permissions, and securing network services, enhancing the ability to respond to security incidents.
-- Obtained SC-900 Certification: Showcased understanding of security, compliance, and identity in Microsoft IAM services.
+- Obtained SC-900 Certification: Showcased an understanding of security, compliance, and identity in Microsoft IAM services.
 - CCNA Certification: Acquired Cisco networking proficiency, mastering troubleshooting and configuration tasks, which enhanced endpoint security capabilities.
 - Associates in Arts Organizational Management: Enhanced communication and leadership skills, management competencies across various industries, financial analysis, and legal aspects of business.
 
