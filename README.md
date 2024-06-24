@@ -72,7 +72,7 @@ Project title
 
 ### Professional Experience
 
-Educational Development (UNLV, MCC) (Mesa, AZ)	December 2020–August 2024
+**Educational Development (UNLV, MCC) (Mesa, AZ)	December 2020–August 2024**
 College Student/Self-Study
 - Earned Security+ Certification: Demonstrated expertise in network security and risk management, leading to the implementation of robust security protocols and effective response to cyber threats.
 - Achieved Linux Security Essentials Certification: Established a strong foundation in Linux system security, managing permissions, and securing network services, enhancing the ability to respond to security incidents.
@@ -80,5 +80,26 @@ College Student/Self-Study
 - CCNA Certification: Acquired Cisco networking proficiency, mastering troubleshooting and configuration tasks, which enhanced endpoint security capabilities.
 - Associates in Arts Organizational Management: Enhanced communication and leadership skills, management competencies across various industries, financial analysis, and legal aspects of business.
 
+**Gig Work (Qwick, InstaCart, DoorDash) (Phoenix, AZ)	November 2017–February 2022**
+Independent Contractor
+-	Adaptability and Vigilance: Gig workers must adapt to market changes and competition; cybersecurity professionals are vigilant and adaptable to evolving threats and security landscapes. 
+-	Customer Service and Data Protection: Providing excellent customer service in the gig economy includes protecting customer data, which aligns with the core responsibilities of cybersecurity to safeguard sensitive information.
+-	Financial Management and Risk Management: Managing finances in the gig economy involves assessing risks and making informed decisions, like how cybersecurity professionals evaluate and manage risks to protect assets.
+
+**AJ’s Fine Foods, (Scottsdale, AZ)	February 2020–November 2020**
+Assistant Manager
+-	Inventory Management: Managing inventory in a bakery translates to managing digital assets in cybersecurity. Keeping track of software updates, patches, and security tools is akin to managing a bakery.
+-	Vendor Relations and Negotiation: Effective communication and negotiation with vendors are important in cybersecurity for acquiring the best security solutions and services at optimal cost.
+-	Regulatory Compliance and Safety: Ensuring compliance with food safety standards correlates with adhering to cybersecurity regulations and protecting against legal and financial repercussions.
+
+#RELEVANT EXPERIENCE
+
+**A to Z Allied Moving, on-site (Phoenix, AZ) 	October 2006–June 2014**
+Owner/Founder
+-	Strategic IT Deployment: Implemented an IT infrastructure that automated procurement and inventory management, enhancing operational efficiency and data accuracy.
+-	Budget Management with IT Systems: Utilized financial software to manage a $1 million budget, providing a foundation for cybersecurity budgeting and resource allocation.
+-	Contract Management via Digital Platforms: Managed service contracts and coordinated logistics operations using digital systems, akin to handling cybersecurity service level agreements.
+-	Risk Management in Logistics: Applied risk assessment tools to logistics, paralleling the identification and mitigation of cybersecurity threats.
+-	Marketing Innovation with Technology: Used web analytics and digital content creation to drive marketing strategies, reflecting the use of cybersecurity tools to protect and analyze data.
 
 
