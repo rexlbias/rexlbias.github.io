@@ -35,12 +35,20 @@ I am pursuing Data+, Linux Web Essentials, and Server +.
 ### Skills Profile
 
 - **Operating Systems:** Microsoft Windows (7, 8, 10, 11), Microsoft Windows Server (2012, 2016, 2023), Linux (Kali, Ubuntu, Arche, BlackArch), MacOS, Cisco IOS, AWS, Azure
-- **Networking:** VLANs, ACLs, ZPF, RIP, static routing, subnetting, VTP, 802.1q, inter-VLAN routing, VPN, DHCP, DNS, Radius, TACAS+, network security, Linux networking, cloud networking, wireless networking, network monitoring tools, network automation, network security protocols, Cisco network protocols, NIDS/HIDS, NIPS/HIPS 
+- 
+- **Networking:** VLANs, ACLs, ZPF, RIP, static routing, subnetting, VTP, 802.1q, inter-VLAN routing, VPN, DHCP, DNS, Radius, TACAS+, network security, Linux networking, cloud networking, wireless networking, network monitoring tools, network automation, network security protocols, Cisco network protocols, NIDS/HIDS, NIPS/HIPS
+- 
 - **Programming Languages:**  Python, SQL, Bash, Bash Scripting, PowerShell, HTML, CSS, JSON, XML, Yaml
+- 
 - **Tools:**  Wireshark, Nessus, Nmap/Zenmap, NetFlow, Splunk, ELK stack, Sysinternals, PFSense, Zeek, Snort, Sguil, Wazuh, Cisco Packet Tracer, TryHackMe.com, Active Directory, MySQL, Excel, Tableau, Metasploit
 
 ###  Cybersecurity Analyst Projects
 Project title 
+---- Build a network
+---- Build a Siem
+---- Build A Honeypot
+---- Malware analysis
+---- Create capture the flag analysis
 ---- Designing a secure network architecture
 ---- Developing a password-cracking tool
 ---- Conducting penetration testing on a web application
