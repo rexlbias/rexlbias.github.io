@@ -2,7 +2,7 @@
 
 ## Professional Summary
 
-I am well-prepared to tackle complex security challenges with a solid cybersecurity education from the University of Nevada-Las Vegas and a suite of industry-recognized certifications, including CompTIA Security+, SC-900, and CCNA. My hands-on experience in cyber defense, network security, and incident management makes me a valuable asset for any organization. My background in organizational management and team leadership further enhances my technical expertise, making me an ideal candidate for roles focused on protecting digital assets and infrastructure. I am expanding my skill set with certifications like Data+, Linux Web Essentials, and Server +. My proficiency spans various operating systems and networking technologies, ensuring adaptability in diverse environments. Additionally, my programming skills in languages such as Python and SQL and familiarity with tools like Wireshark and Nessus equip me to contribute effectively to cybersecurity initiatives.
+A solid cybersecurity education from the University of Nevada-Las Vegas, complemented by a suite of industry-recognized certifications such as CompTIA Security+, SC-900, and CCNA, prepares this candidate to tackle complex security challenges. Hands-on experience in cyber defense, network security, and incident management positions the applicant as an asset for any organization. A background in organizational management and team leadership further enhances technical expertise, making this applicant ideal for roles focused on protecting digital assets and infrastructure. Proficiency spans across various operating systems and networking technologies, ensuring adaptability in diverse environments. Programming skills in languages such as Python and SQL, coupled with familiarity with tools like Wireshark and Nmap, provides the ability to contribute effectively to cybersecurity initiatives.
 
 ### Education
 
@@ -92,7 +92,7 @@ Assistant Manager
 -	Vendor Relations and Negotiation: Effective communication and negotiation with vendors are important in cybersecurity for acquiring the best security solutions and services at optimal cost.
 -	Regulatory Compliance and Safety: Ensuring compliance with food safety standards correlates with adhering to cybersecurity regulations and protecting against legal and financial repercussions.
 
-#RELEVANT EXPERIENCE
+# RELEVANT EXPERIENCE
 
 **A to Z Allied Moving, on-site (Phoenix, AZ) 	October 2006–June 2014**
 Owner/Founder
