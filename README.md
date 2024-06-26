@@ -1,8 +1,14 @@
-# Cybersecurity Analyst
+# Technical Support Engineer
 
 ## Professional Summary
 
-A solid cybersecurity education from the University of Nevada-Las Vegas, complemented by a suite of industry-recognized certifications such as CompTIA Security+, SC-900, and CCNA, prepares this candidate to tackle complex security challenges. Hands-on experience in cyber defense, network security, and incident management positions the applicant as an asset for any organization. A background in organizational management and team leadership further enhances technical expertise, making this applicant ideal for roles focused on protecting digital assets and infrastructure. Proficiency spans across various operating systems and networking technologies, ensuring adaptability in diverse environments. Programming skills in languages such as Python and SQL, coupled with familiarity with tools like Wireshark and Nmap, provides the ability to contribute effectively to cybersecurity initiatives.
+This professional brings a robust educational background in cybersecurity from the University of Nevada-Las Vegas, where they earned a Cybersecurity Certificate with courses in Microsoft Security Systems Administration, Securing a Network, and Threat Hunting. Plus, an Associate of Arts in Organizational Management from Mesa Community College, highlighting business, communication, and human relations skills.
+
+With industry-recognized certifications such as CompTIA Security+, SC-900, and CCNA, this professional is well-equipped to handle complex networking and security challenges. Hands-on experience in cyber defense, network security, and incident management makes this professional an invaluable asset to any organization focused on protecting digital assets and infrastructure.
+
+This professional's proficiency extends to operating systems like Microsoft Windows, Linux kernels, MacOS, and Cisco IOS. They are also skilled in networking technologies, cloud platforms like AWS and Azure, and programming languages including Python, SQL, and Bash.
+
+The professional's toolset includes industry-standard software such as Wireshark, Nessus, Nmap/Zenmap, and Splunk, ensuring they can effectively monitor and secure network environments. This professional is adept at technical tasks but also excels in organizational management and team leadership, making them an ideal fit for roles that require a strategic approach to cybersecurity.
 
 ### Education
 
