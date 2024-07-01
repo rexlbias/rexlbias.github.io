@@ -48,6 +48,13 @@ I am pursuing Data+, Linux Web Essentials, and Server +.
   
 - **Tools:**  Wireshark, Nessus, Nmap/Zenmap, NetFlow, Splunk, ELK stack, Sysinternals, PFSense, Zeek, Snort, Sguil, Wazuh, Cisco Packet Tracer, TryHackMe.com, Active Directory, MySQL, Excel, Tableau, Metasploit
 
+### Data Analyst Projects
+Project title 
+---- Query Execution Plan
+---- data cleaning
+---- Data visualization
+---- Implementing data loss prevention measures in an organization’s network
+
 ### Linux Projects
 
 enter video link here
@@ -58,6 +65,23 @@ enter video link here
 - Action: Streamlined the Linux server establishing department-specific directories, groups, and administrative users; ensuring secure access through meticulously configured permissions restricting directory access.
 - Result: Successfully launched the server setup, with all departments fully operational and secure, leading to a smooth onboarding process for new employees.
 - Impact: The project enhanced the company’s security posture and operational efficiency, demonstrating the ability to manage critical IT infrastructure and security protocols.
+
+### Web Developer Projects
+Project title
+---- Security Audit Tool
+---- Linux-based web Hosting Platform
+
+### Networking Projects
+---- Build a small office network
+
+### Active Directory
+---- Implementing policy
+---- Create Ou's
+
+### Web Developer Projects
+Project title
+---- Security Audit Tool
+---- Linux-based web Hosting Platform
 
 ###  Cybersecurity Analyst Projects
 Project title 
@@ -73,18 +97,6 @@ Project title
 ---- Automated Vulnerability Scanner
 ---- Designing secure coding practices guidelines
 ---- Creating an incident response plan for handling cyber attacks
-
-### Data Analyst Projects
-Project title 
----- web scraping
----- data cleaning
----- Data visualization
----- Implementing data loss prevention measures in an organization’s network
-
-### Web Developer Projects
-Project title
----- Security Audit Tool
----- Linux-based web Hosting Platform
 
 
 ### Professional Experience
