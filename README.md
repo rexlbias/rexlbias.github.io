@@ -57,7 +57,7 @@ Project title
 
 ### Linux Projects
 
-enter video link here
+assets/video.vep/UserManagementWalkthrough 
 
 **Linux Server Configuration for Departmental Integration** | Role as Linux Administrator for a fast-growing tech company to facilitate the expansion of the workforce and departmental organization.
 - Situation: The company expanded its workforce by hiring 9 new employees, necessitating the creation of three new departments: Engineering, Sales, and IS.
