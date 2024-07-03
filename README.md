@@ -49,6 +49,9 @@ I am pursuing Data+, Linux Web Essentials, and Server +.
 - **Tools:**  Wireshark, Nessus, Nmap/Zenmap, NetFlow, Splunk, ELK stack, Sysinternals, PFSense, Zeek, Snort, Sguil, Wazuh, Cisco Packet Tracer, TryHackMe.com, Active Directory, MySQL, Excel, Tableau, Metasploit
 
 ### Data Analyst Projects
+
+URL: "https://www.youtube.com/watch?v=hhe_nMftTLM"
+
 Project title 
 ---- Query Execution Plan
 ---- data cleaning
