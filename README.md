@@ -1,4 +1,4 @@
-# Technical Support Engineer
+# Junior Data Analyst/Cyber Analyst/Network Analyst
 
 ## Professional Summary
 
@@ -48,58 +48,7 @@ I am pursuing Data+, Linux Web Essentials, and Server +.
   
 - **Tools:**  Wireshark, Nessus, Nmap/Zenmap, NetFlow, Splunk, ELK stack, Sysinternals, PFSense, Zeek, Snort, Sguil, Wazuh, Cisco Packet Tracer, TryHackMe.com, Active Directory, MySQL, Excel, Tableau, Metasploit
 
-### Data Analyst Projects
 
-URL: "https://www.youtube.com/watch?v=hhe_nMftTLM"
-
-Project title 
----- Query Execution Plan
----- data cleaning
----- Data visualization
----- Implementing data loss prevention measures in an organization’s network
-
-### Linux Projects
-
-Rex Bias - YouTube
-
-**Linux Server Configuration for Departmental Integration** | Role as Linux Administrator for a fast-growing tech company to facilitate the expansion of the workforce and departmental organization.
-- Situation: The company expanded its workforce by hiring 9 new employees, necessitating the creation of three new departments: Engineering, Sales, and IS.
-- Task: As the Linux Administrator, responsible for creating directories, groups, and user accounts with specific permissions to ensure secure and efficient departmental operations.
-- Action: Streamlined the Linux server establishing department-specific directories, groups, and administrative users; ensuring secure access through meticulously configured permissions restricting directory access.
-- Result: Successfully launched the server setup, with all departments fully operational and secure, leading to a smooth onboarding process for new employees.
-- Impact: The project enhanced the company’s security posture and operational efficiency, demonstrating the ability to manage critical IT infrastructure and security protocols.
-
-### Web Developer Projects
-Project title
----- Security Audit Tool
----- Linux-based web Hosting Platform
-
-### Networking Projects
----- Build a small office network
-
-### Active Directory
----- Implementing policy
----- Create Ou's
-
-### Web Developer Projects
-Project title
----- Security Audit Tool
----- Linux-based web Hosting Platform
-
-###  Cybersecurity Analyst Projects
-Project title 
----- Build a network
----- Build a Siem
----- Build A Honeypot
----- Malware analysis
----- Create capture the flag analysis
----- Designing a secure network architecture
----- Developing a password-cracking tool
----- Conducting penetration testing on a web application
----- Develop a WAF
----- Automated Vulnerability Scanner
----- Designing secure coding practices guidelines
----- Creating an incident response plan for handling cyber attacks
 
 
 ### Professional Experience
