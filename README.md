@@ -48,6 +48,17 @@ I am pursuing Data+, Linux Web Essentials, and Server +.
   
 - **Tools:**  Wireshark, Nessus, Nmap/Zenmap, NetFlow, Splunk, ELK stack, Sysinternals, PFSense, Zeek, Snort, Sguil, Wazuh, Cisco Packet Tracer, TryHackMe.com, Active Directory, MySQL, Excel, Tableau, Metasploit
 
+### PROFESSIONAL PROJECTS 
+
+**Cybersecurity Labs & Projects | Rex Bias – YouTube				July 2024 to Present**
+
+Job Hunt Like A Hacker | “Job Hunt like a Hacker” is a project where I create and share YouTube videos demonstrating my IT skills and abilities to attract prospective employers. By showcasing my expertise, I’ve developed a following and increased my visibility in the job market. 
+
+- Situation: In a competitive job market, I needed a way to showcase my extensive IT skills to prospective employers effectively.
+- Task: I initiated a “Job Hunt like a Hacker” project to create and share YouTube videos demonstrating my IT abilities across various domains.
+- Action: I produced and uploaded videos covering a wide range of topics, including managing Azure Active Directory, configuring DHCP and DNS, performing encryption and hashing, utilizing advanced Excel functions, managing file systems, connecting IoT devices, troubleshooting Linux and Windows systems, configuring networking equipment, managing PKI certificates, setting up printers, enabling remote access, and implementing security measures. Each video was designed to highlight specific skills and provide practical demonstrations.
+- Result: As a result, I developed a following on YouTube, significantly increased my visibility in the job market, and attracted the attention of potential employers who recognized my expertise and practical experience.
+- Impact: This project showcased my technical skills and demonstrated my ability to communicate complex concepts effectively, leading to increased engagement from the IT community and enhancing my professional reputation.
 
 
 
