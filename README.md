@@ -50,9 +50,9 @@ I am pursuing Data+, Linux Web Essentials, and Server +.
 
 ### PROFESSIONAL PROJECTS 
 
-**Cybersecurity Labs & Projects | Rex Bias – YouTube				July 2024 to Present**
+**Cybersecurity Labs & Projects** - Rex Bias – YouTube				July 2024 to Present
 
-Job Hunt Like A Hacker | “Job Hunt like a Hacker” is a project where I create and share YouTube videos demonstrating my IT skills and abilities to attract prospective employers. By showcasing my expertise, I’ve developed a following and increased my visibility in the job market. 
+Job Hunt Like A Hacker - “Job Hunt like a Hacker” is a project where I create and share YouTube videos demonstrating my IT skills and abilities to attract prospective employers. By showcasing my expertise, I’ve developed a following and increased my visibility in the job market. 
 
 - Situation: In a competitive job market, I needed a way to showcase my extensive IT skills to prospective employers effectively.
 - Task: I initiated a “Job Hunt like a Hacker” project to create and share YouTube videos demonstrating my IT abilities across various domains.
